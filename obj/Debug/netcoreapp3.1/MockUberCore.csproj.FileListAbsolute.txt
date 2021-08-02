@@ -1,0 +1,9 @@
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\bin\Debug\netcoreapp3.1\MockUberCore.deps.json
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\bin\Debug\netcoreapp3.1\MockUberCore.dll
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\bin\Debug\netcoreapp3.1\MockUberCore.pdb
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.csprojAssemblyReference.cache
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.AssemblyInfoInputs.cache
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.AssemblyInfo.cs
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.csproj.CoreCompileInputs.cache
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.dll
+C:\Users\khwjwb\source\repos\MockUber\MockUberCore\obj\Debug\netcoreapp3.1\MockUberCore.pdb
